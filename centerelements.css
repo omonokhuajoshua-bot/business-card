@@ -1,0 +1,22 @@
+img {
+    width: 500px;
+    display: block;
+    margin-left: auto;  
+    margin-right: auto;
+    
+}
+.search-box, .search-button {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    font-size: 40px;
+}
+.search-input {
+    font-size: 30px;
+    padding: 10px;
+    border-radius: 15px;
+    border: 2px; solid black;
+    margin-left: auto;
+    margin-right: auto;  
+}   
